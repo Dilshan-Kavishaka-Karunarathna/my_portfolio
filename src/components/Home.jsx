@@ -1,6 +1,8 @@
 import React from 'react'
 import homeImage from '../assets/profile.png'
 import { TypeAnimation } from 'react-type-animation'
+import SocialIcons from './SocialIcons'
+import CvButton from './CvButton'
 
 const Home = () => {
   return (
@@ -35,6 +37,8 @@ const Home = () => {
              CSS, JavaScript, React, MongoDB, Firebase and I am skilled in managing projects 
              and client relationships effectively.
              </p>
+             <SocialIcons/>
+             <CvButton/>
         </div>
     </section>
   )
