@@ -6,7 +6,7 @@ import CvButton from './CvButton'
 
 const Home = () => {
   return (
-    <section className='flex flex-col md:flex-row items-center justify-center min-h-screen px-6'>
+    <section id='home' className='flex flex-col md:flex-row items-center justify-center min-h-screen px-6'>
         <div className='md:w-1/2 flex justify-center'>
              <img src={homeImage} alt ='DK_DEV' className='rounded-full w-50 sm:w-64 md:w-80 lg:w-[350px] xl:w-[400px] shadow-lg hover:scale-110 transition duration-300 '></img>
         </div>
