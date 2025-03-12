@@ -5,6 +5,7 @@ import Card from './card.jsx'
 const Education = () => {
   return (
     <section id='education' className='text-white w-full h-[600px]  '>
+      <div className='text-xl text-black'>abc</div>
        <div className='text-4xl text-red-500 font-extrabold  flex flex-col items-center font-serif'>
         EDUCATION
        </div>
