@@ -4,6 +4,7 @@ import Header from "./components/Header"
 import Home from './components/Home'
 import Education from "./components/Education"
 import Skills from "./components/Skills"
+import Certification from "./components/Certification"
 
 
 
@@ -17,6 +18,7 @@ function App() {
       <Home/>
       <Education/>
       <Skills/>
+      <Certification/>
       
       
    </>
