@@ -15,18 +15,18 @@ const Certification = () => {
 
             <div className='flex gap-20 text-center pt-54 pl-20'>
             <div>
-                <img src='/aaa.png' alt='chatgpt web' className='h-[180px] w-[250px] border-4 border-yellow-500 hover:scale-110 transition duration-300 rounded-xl'/>
+                <img src='public/aaa.png' alt='chatgpt web' className='h-[180px] w-[250px] border-4 border-yellow-500 hover:scale-110 transition duration-300 rounded-xl'/>
                 <p className='text-white mt-3'>Introduction to web <br/>Development with CHATGPT</p>
                 <p className='text-white text-xl'><span className='text-yellow-300'>Simply</span><span className='text-blue-400'>learn</span></p>
                 </div>
             <div className='gap-20'>
-                <img src='/bbb.png' alt='chatgpt web' className='h-[180px] w-[250px] border-4 border-yellow-500 hover:scale-110 transition duration-300 rounded-xl'/>
+                <img src='public\bbb.png' alt='chatgpt web' className='h-[180px] w-[250px] border-4 border-yellow-500 hover:scale-110 transition duration-300 rounded-xl'/>
                 <p className='text-white mt-3'>Introduction to DevOps </p>
                 <p className='text-white text-xl'><span className='text-yellow-300'>Simply</span><span className='text-blue-400'>learn</span></p>
                     
              </div>
              <div>
-                <img src='/ccc.png' alt='chatgpt web' className='h-[180px] w-[250px] border-4 border-yellow-500 hover:scale-110 transition duration-300 rounded-xl'/>
+                <img src='public/ccc.png' alt='chatgpt web' className='h-[180px] w-[250px] border-4 border-yellow-500 hover:scale-110 transition duration-300 rounded-xl'/>
                 <p className='text-white mt-3'>JavaScript for Beginers</p>
                 <p className='text-white text-xl'><span className='text-yellow-300'>Simply</span><span className='text-blue-400'>learn</span></p>
                     
