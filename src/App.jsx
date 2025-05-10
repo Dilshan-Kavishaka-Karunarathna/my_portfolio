@@ -1,5 +1,5 @@
 import React from "react"
-import ThreeBackground from "./components/threeBackground"
+import ThreeBackground from "./components/threeBackground.jsx"
 import Header from "./components/Header"
 import Home from './components/Home'
 import Education from "./components/Education"
