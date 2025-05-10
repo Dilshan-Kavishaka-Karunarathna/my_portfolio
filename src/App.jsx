@@ -5,6 +5,8 @@ import Home from './components/Home'
 import Education from "./components/Education"
 import Skills from "./components/Skills"
 import Certification from "./components/Certification"
+import Projects from "./components/projects"
+import Contact from "./components/Contact"
 
 
 
@@ -19,7 +21,8 @@ function App() {
       <Education/>
       <Skills/>
       <Certification/>
-      
+      <Projects/>
+      <Contact/>
       
    </>
   )
